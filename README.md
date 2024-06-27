@@ -205,8 +205,8 @@ Handling the edge case gracefully ensures that no bluescreens occur during our a
 
 ---
 **Me:**
-
 Thank you for handling that edge case! Can we proceed with Whitespace?
+
 ---
 
 **Bing:**
